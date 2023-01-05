@@ -20,6 +20,9 @@ nova meta para 2023 é retomar a carreira em TI.
   <img align="center" alt="isa-boo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
           
   <img align="center" alt="isa-ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-          
+    <img align="center" alt="isa-ang" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
+         
+       
+           
 
 </div>
